@@ -8,4 +8,4 @@ def my_collect(argument)
       i += 1
     end
     collection
-  end 
+  end
